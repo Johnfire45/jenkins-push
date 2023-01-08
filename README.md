@@ -11,10 +11,10 @@
 
 - [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
 - [Infrastructure Penetration Testing]()
-- [Networks Penetration Testing]()
-- [Web Applications Penetration Testing]()
+- [Networks Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
+- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
 - [Wireless Security](https://www.offensive-wireless.com/)
-- [Ethical Hacking]()
+- [Ethical Hacking](https://www.poplabsec.com/)
 
 
 ## Certifications Study
